@@ -1,0 +1,1 @@
+ cv2.imshow("Live Feed (grayscale)", gray)
